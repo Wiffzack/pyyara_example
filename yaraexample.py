@@ -5,7 +5,7 @@ import operator
 import os.path
 import operator
 inputfile = '';matches = [];flat_list = ''
-list = ['D://all//scanner//yara//rules-master//Packers//packer_compiler_signatures.yar','D://all//scanner//yara//rules-master//Antidebug_AntiVM//antidebug_antivm.yar',"D://all//scanner//yara//rules-master//Crypto//crypto_signatures.yar","D://all//scanner//yara//rules-master//malwarerandom//MALW_random.yar"]
+list = ['rules/packer_compiler_signatures.yar','rules/antidebug_antivm.yar',"rules/crypto_signatures.yar","ruless/MALW_random.yar"]
 data = dict()
 
 def scanning(rulef):
