@@ -1,5 +1,5 @@
 # pyyara_example
-A small Python Script for Anti Debug and VM awareness analyse with [ pyyara](https://github.com/VirusTotal/yara-python) .
+A small Python Script Example for Anti Debug and VM awareness analyse with [yara-python](https://github.com/VirusTotal/yara-python) .
 
 - Usage :
 > python.exe D:\all\tools\antidebugscan.py -i C:\Windows\explorer.exe
