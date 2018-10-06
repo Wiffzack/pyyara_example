@@ -19,11 +19,14 @@ Interesting flags are :
 
 Entropy can be used to identify SMC (Self modifying code). You can use for example [binent](https://github.com/yarox24/binent)
 > Entropy describe the grade of order of a given system .
+
 Entropy compare :
 > python.exe D:\all\tools\binent-master\binent.py C:\Windows\explorer.exe
+
 > 6.08600902133
 
 > python.exe D:\all\tools\binent-master\binent.py C:\Users\Wiffzack\Desktop\1e84ff45-414b-11e8-b837-80e65024849a.file
+
 > 7.89119892685
 
 
